@@ -13,3 +13,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kim-chansoo-kim&show_icons=true&locale=en&layout=compact" alt="kim-chansoo-kim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-chansoo-kim&show_icons=true&locale=en" alt="kim-chansoo-kim" /></p>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kim-chansoo-kim&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kim-chansoo-kim"
+  width="600"
+  height="300"
+/>
+</a>
