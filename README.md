@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm chansoo</h1>
-<h3 align="center">안녕하세요, 저는 김찬수입니다. 현재 IoT강의를 받으며 언어를 배우고 새로운 도전을 하고 있습니다. 열심히 하겠습니다.</h3>
+<h3 align="center">안녕하세요, 저는 김찬수입니다. 현재 IoT강의를 받으며 언어를 배우고 새로운 도전을 하고 있습니다. 열심히하겠습니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kim-chansoo-kim&label=Profile%20views&color=0e75b6&style=flat" alt="kim-chansoo-kim" /> </p>
 
