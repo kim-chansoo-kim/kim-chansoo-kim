@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/kim-chansoo-kim/kim-chansoo-kim/refs/heads/main/assets/welcome-gradient.svg" alt="안녕하세요 👋, 펌웨어 및 임베디드 엔지니어 김찬수입니다." width="600"/>
+<img src="https://raw.githubusercontent.com/kim-chansoo-kim/kim-chansoo-kim/refs/heads/main/assets/welcome-gradient-final.svg" alt="안녕하세요 👋, 펌웨어 및 임베디드 엔지니어 김찬수입니다." width="600"/>
 </h1>
 <h3 align="center">하드웨어를 제어하고 새로운 가치를 만들어내는 펌웨어 개발에 열정을 가진 신입 엔지니어입니다.</h3>
 
