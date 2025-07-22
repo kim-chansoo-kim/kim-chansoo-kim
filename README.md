@@ -106,7 +106,7 @@ MySQL: 데이터베이스 설계 및 관리에 대한 기초 지식을 보유하
 <p align="center">
 더 자세한 정보와 인터랙티브한 경험은 저의 개인 포트폴리오 웹페이지에서 확인하실 수 있습니다!
 <br><br>
-<a href="https://g.co/gemini/share/d2a3429f6f2c" target="_blank" rel="noopener noreferrer">
+<a href="https://g.co/gemini/share/db402f1b909e" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-teal?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link" />
 </a>
 </p>
