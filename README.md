@@ -76,14 +76,3 @@
 - **광양백운고등학교**: 자연계열 졸업
 
 ---
-
-### 📊 GitHub 통계 (GitHub Stats)
-
-저의 GitHub 활동을 한눈에 볼 수 있는 통계입니다.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kim-chansoo-kim&show_icons=true&locale=en" alt="kim-chansoo-kim" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kim-chansoo-kim&show_icons=true&locale=en&layout=compact" alt="kim-chansoo-kim" />
-</p>
-
----
