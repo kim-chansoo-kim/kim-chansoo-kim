@@ -87,13 +87,3 @@
 </p>
 
 ---
-
-### 이력서 및 포트폴리오 웹페이지
-
-더 자세한 정보는 저의 개인 포트폴리오 웹페이지에서 확인하실 수 있습니다!
-
-<p align="center">
-<a href="https://g.co/gemini/share/db402f1b909e" target="_blank">
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-teal?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link" />
-</a>
-</p>
